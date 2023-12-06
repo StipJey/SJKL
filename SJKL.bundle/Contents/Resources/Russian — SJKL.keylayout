@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 351 on 2023-12-05 at 17:36 (GMT+3)-->
+<!--Last edited by Ukelele version 351 on 2023-12-06 at 19:35 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="126" id="-4344" name="Russian — SJKL" maxout="2">
     <layouts>
@@ -184,11 +184,11 @@
             <key code="19" output="@"/>
             <key code="20" output="#"/>
             <key code="21" output="$"/>
-            <key code="22" output="^"/>
+            <key code="22" output=":"/>
             <key code="23" output="%"/>
             <key code="24" output="+"/>
             <key code="25" output="("/>
-            <key code="26" output="&#x0026;"/>
+            <key code="26" output="?"/>
             <key code="27" output="_"/>
             <key code="28" output="*"/>
             <key code="29" output=")"/>
@@ -404,15 +404,15 @@
             <key code="15" output="®"/>
             <key code="16" action="ѣ"/>
             <key code="17" output="™"/>
-            <key code="18" output=""/>
+            <key code="18" output="!"/>
             <key code="19" output="&#x0022;"/>
             <key code="20" output="№"/>
             <key code="21" output=";"/>
-            <key code="22" output=":"/>
+            <key code="22" output="^"/>
             <key code="23" output="%"/>
             <key code="24" output="≠"/>
             <key code="25" output="←"/>
-            <key code="26" output="?"/>
+            <key code="26" output="&#x0026;"/>
             <key code="27" output="—"/>
             <key code="28" output="*"/>
             <key code="29" output="→"/>
