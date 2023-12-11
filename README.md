@@ -27,6 +27,7 @@ https://github.com/StipJey/SJKL/assets/8746529/5520ee64-046e-415b-80e1-b8b245db1
 
 ## Инструкция
 ### Установка раскладки
+0. Зайдите в [релизы](https://github.com/StipJey/SJKL/releases) и скачайте актуальный SJKL.dmg
 1. Запустите SJKL.dmg
 2. Запустите Keyboard Installer
 3. Перетащите файл SJKL.bundle в окно Keyboard Installer'а
@@ -61,8 +62,8 @@ https://github.com/StipJey/SJKL/assets/8746529/5520ee64-046e-415b-80e1-b8b245db1
 ## Вдохновение и благодарность
 
 Я сделал раскладку на основе идей из двух раскладок:
-1. Strata Markdown https://github.com/Atarity/Strata/tree/master
-2. Ручей (Ruchey) https://github.com/a-projects/ruchey
+1. [Strata Markdown ](https://github.com/Atarity/Strata/tree/master)
+2. [Ручей (Ruchey) ](https://github.com/a-projects/ruchey)
 
 В Страте решен вопрос с наличием символов для удобного набора текстов. Под рукой нормальные кавычки « », длинное тире —, стрелочки ← → и прочие символы.
 У Ручья отличная идея с фиксированным расположением независимо от раскладки, но она ппц какая неудобная для меня.
